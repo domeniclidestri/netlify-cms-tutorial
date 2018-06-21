@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: domeniclidestri/netlify-cms-tutorial # Path to your Github repository
 
 media_folder: static/assets
 
